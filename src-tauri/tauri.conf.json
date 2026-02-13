@@ -64,9 +64,9 @@
   },
   "plugins": {
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDU2Njk4QTU0MDMzMEY5MTkKUldRWitUQURWSXBwVnFTY1FBWitxNlpaQnB5S3RVWW1qWHJ3NlRuZ2p3c2hPVzNTa3BUR0V0SXkK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDI1NTcyNzBEOTVBNzY2ODMKUldTRFpxZVZEU2RYSlppL3h1Y2lNblpQWEpHeHNmQ3BESjlxSk0zcmNhdnBKV1NCY25uZC9lRmUK",
       "endpoints": [
-        "https://github.com/robinebers/openusage/releases/latest/download/latest.json"
+        "https://github.com/Noisemaker111/openusage-opencode/releases/latest/download/latest.json"
       ]
     }
   }
