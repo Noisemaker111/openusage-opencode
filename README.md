@@ -6,7 +6,7 @@ Amp, Cursor, Claude, Codex, and more coming. See your usage at a glance from you
 
 ## Download
 
-[**Download the latest release**](https://github.com/robinebers/openusage/releases/latest) (macOS, Apple Silicon & Intel)
+[**Download the latest release**](https://github.com/Noisemaker111/openusage-opencode/releases/latest) (macOS, Apple Silicon & Intel, Windows x64)
 
 The app auto-updates. Install once and you're set.
 
@@ -49,7 +49,13 @@ I maintain the project as a guide and quality gatekeeper, but this is your app a
 
 Plugins are currently bundled as we build our the API, but soon will be made flexible so you can build and load their own.
 
-**Windows/Linux:** high-priority and on the todo, but I need testers with some time, willing to help out.
+**Windows:** supported in this fork.
+
+**Linux:** planned; contributions and testing help are welcome.
+
+## Development and Release Channels
+
+See [`docs/release-flow.md`](docs/release-flow.md) for the `dev` -> `main` promotion workflow and prerelease/stable publishing flow.
 
 ### How to Contribute
 
